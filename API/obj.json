@@ -1,0 +1,55 @@
+{
+        "student_marked": {
+                          "id": 7,
+                          "Studentprofiling_date": "2019-02-14T15:28:58Z",
+                          "StudentId": {
+                                "id": 4,
+                                "firstname": "sydney",
+                                "lastname": "syd",
+                                "Uemail": "syd@rubaga.com",
+                                "password": "sydney",
+                                "residence": "America",
+                                "reg_date": "2020-07-31T01:06:35.909565Z"
+                              },
+                          "StudentRole": {
+                                "id": 3,
+                                "role_name": "parent",
+                                "role_name_added_date": "2019-02-14T15:30:59Z"
+                                },
+                          "StudentCourse": {
+                              "id": 3,
+                              "course_name": "Logic",
+                              "added_date": "2019-02-14T15:45:04Z"
+                          }
+        },
+        "course_marked": {
+            "id": 5,
+            "course_name": "CSF",
+            "added_date": "2019-02-14T15:45:16Z"
+        },
+        "course_marks": "80",
+        "recorded_by": {
+            "id": 1,
+            "StaffMemberprofiling_date": "2019-02-14T16:24:22Z",
+            "StaffMemberId": {
+                "id": 3,
+                "firstname": "Malcon",
+                "lastname": "Xavierde",
+                "Uemail": "Mcom@blm.com",
+                "password": "de",
+                "residence": "America",
+                "reg_date": "2020-07-31T00:54:51.806230Z"
+            },
+            "StaffMemberCourse": {
+                "id": 2,
+                "course_name": "Software Engineering",
+                "added_date": "2019-02-14T14:23:37Z"
+            },
+            "StaffMemberRole": {
+                "id": 5,
+                "role_name": "teaching_staff",
+                "role_name_added_date": "2019-02-14T15:31:09Z"
+            }
+        },
+        "posting_date": "2019-02-14T16:42:25.706612Z"
+    }
